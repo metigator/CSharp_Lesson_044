@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>   
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\iabdelnabi\Desktop\OddEvenNumbers\Metigator44\L04.L04.UnicodeAndStringComparison\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
